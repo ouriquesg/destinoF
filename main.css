@@ -1,0 +1,71 @@
+.nav-link{
+    text-align: center;
+}
+.carousel-inner img{
+    width: 100%;
+    max-height: 480px;
+}
+.nav-pills .nav-link:hover{
+    background-color: #001D3D;
+    color: #ffc300;    
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #001D3D;
+    color: #ffc300;
+}
+body{
+    background-color: rgba(255, 195, 0, 0.5);
+}
+header{
+    color:#001D3D;
+    background-color: #ffc300;
+}
+.row{
+    margin-top: 13px;
+}
+.row h1{
+    margin-top: 12px;
+    color: #001D3D;
+    border-bottom: #001D3D 1px solid;
+}
+#contato{
+    background-color: #001D3D;
+    color: #ffc300;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    border-radius: 12px;
+    padding: 12px;
+    width: 95%;
+}
+.card{
+    margin-top: 12px;
+    height: 440px;
+    background-color: #001D3D;
+    color: #ffc300;
+}
+.card-header{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
+.btn-warning{
+    color: #001D3D;
+    background-color: #ffc300;
+    width: 100%;
+    margin-top: 12px;
+}
+.form-switch .form-check-input{
+    margin-top: 8px;
+}
+.form-check-label{
+    margin-top: 3px;
+}
+footer{
+    text-align: center;
+    background-color: #001D3D;
+    color: #ffc300;
+    padding: 14px;
+}
